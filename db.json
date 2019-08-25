@@ -1,11 +1,18 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+   {
+      "name":"American Football Conference",
+      "logo":"afc",
+      "children":[
+         {
+            "city":"Tijuana",
+            "team":"Cuervos",
+            "logo":"colts"
+         },
+         {
+            "city":"Tijuana",
+            "team":"Cuervos",
+            "logo":"colts"
+         }
+      ]
+   }
+]
