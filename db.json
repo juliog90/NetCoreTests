@@ -1,4 +1,4 @@
-
+{
 "teams" : [
    {
       "name":"American Football Conference",
@@ -32,4 +32,5 @@
       ]
    }
 ]
+}
 
