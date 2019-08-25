@@ -1,4 +1,6 @@
 {
+      "teams" = [
+      
       "name":"American Football Conference",
       "logo":"afc",
       "children":[
@@ -30,5 +32,6 @@
          }
       ]
    }
+]
 }
 
