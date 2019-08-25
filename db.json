@@ -1,4 +1,4 @@
-{
+
 [
    {
       "name":"American Football Conference",
@@ -15,6 +15,21 @@
             "logo":"colts"
          }
       ]
+   },
+    "name":"American Football Conference",
+      "logo":"afc",
+      "children":[
+         {
+            "city":"Tijuana",
+            "team":"Cuervos",
+            "logo":"colts"
+         },
+         {
+            "city":"Tijuana",
+            "team":"Cuervos",
+            "logo":"colts"
+         }
+      ]
    }
 ]
-}
+
